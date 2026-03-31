@@ -2,6 +2,10 @@
 
 This project presents a Tableau dashboard analyzing Airbnb listings, pricing, and revenue patterns.
 
+## Live Dashboard
+
+🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/tibor.benedek/viz/AirbnbRevenueAnalysisDashboard/AirbnbListingsRevenueDashboard)
+
 ## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
